@@ -1,0 +1,4 @@
+../Core/Src/gpio.c:32:6:HAL_GPIO_EXTI_Callback	4
+../Core/Src/gpio.c:61:6:GPIO_Hal_USB_Reset	1
+../Core/Src/gpio.c:85:6:MX_GPIO_Init	1
+../Core/Src/gpio.c:163:6:GPIO_Hal_Test	3

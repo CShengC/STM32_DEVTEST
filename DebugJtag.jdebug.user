@@ -1,0 +1,18 @@
+
+
+OpenDocument="stm32f1xx_hal.c", FilePath="C:/workspaceshare/workspace_demo/template/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c", Line=364
+OpenDocument="stm32f1xx_hal_gpio.c", FilePath="C:/workspaceshare/workspace_demo/template/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c", Line=0
+OpenDocument="main.c", FilePath="C:/workspaceshare/workspace_demo/template/Core/Src/main.c", Line=45
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=1, w=570, h=146, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=1
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=0, w=570, h=381, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=1088, h=319, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x47AE1040
+OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=300, h=305, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Code Profile", DockArea=LEFT, x=0, y=1, w=300, h=222, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, GroupByFiles=0, SortRespectsFilters=0, ParentRelativeLoad=0
+OpenWindow="Console", DockArea=BOTTOM, x=0, y=0, w=591, h=319, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[666;100;100;100;188]
+TableHeader="Code Profile", SortCol="File / Function", SortOrder="ASCENDING", VisibleCols=["File / Function";"Source Coverage";"Inst. Coverage";"Run Count";"Fetch Count";"Load"], ColWidths=[672;115;139;100;100;100]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[100;105;348]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]

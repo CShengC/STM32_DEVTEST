@@ -1,0 +1,15 @@
+../Core/Src/spi.c:59:26:SPI_Transmit	16	static
+../Core/Src/spi.c:70:26:SPI_Receive	16	static
+../Core/Src/spi.c:82:26:SPI_TransmitReceive	32	static
+../Core/Src/spi.c:92:10:W25QXX_ReadID	16	static
+../Core/Src/spi.c:121:16:W25QXX_ReadSR	24	static
+../Core/Src/spi.c:160:13:W25QXX_Wait_Busy	8	static
+../Core/Src/spi.c:173:5:W25QXX_Read	32	static
+../Core/Src/spi.c:204:6:W25QXX_Write_Enable	16	static
+../Core/Src/spi.c:223:6:W25QXX_Write_Disable	16	static
+../Core/Src/spi.c:241:6:W25QXX_Erase_Sector	24	static
+../Core/Src/spi.c:269:6:W25QXX_Page_Program	32	static
+../Core/Src/spi.c:297:6:MX_SPI2_Init	8	static
+../Core/Src/spi.c:329:6:HAL_SPI_MspInit	40	static
+../Core/Src/spi.c:363:6:HAL_SPI_MspDeInit	16	static
+../Core/Src/spi.c:394:6:SPI_Hal_Test	8	static
